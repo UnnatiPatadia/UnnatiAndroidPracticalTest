@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UnnatiAndroidPractical</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="please_wait">Please Wait…</string>
+
+    <!--Fixed titles-->
+    <string name="ok_value">OK</string>
+    <string name="title_alert">ALERT</string>
+    <string name="no_value">NO</string>
+    <string name="yes_value">YES</string>
+
+    <!--Other Messages-->
+    <string name="server_error_msg">Server Not Responding.Please try again Later</string>
+    <string name="something_went_wrong">Something went wrong.Please try again after some time.</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>
